@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**gabrielbarbosa94/gabrielbarbosa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Gabriel  Barbosa, sou um Progamador Front End, atualmente estou criando projetos com:
+<br>
+<br>
+- <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
+- <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
+<b>
+-🚀E iniciando o aprendizado  em JavaScrip e React.
+<br>
+✏Contato: gabriel_gbw@hotmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:round_pushpin: Goiania-Go
+.Tenho 27 anos.
